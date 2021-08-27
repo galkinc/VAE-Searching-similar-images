@@ -55,4 +55,6 @@ docker-compose up
 * [Fruits 360 Dataset](https://www.kaggle.com/moltean/fruits)
 * [Yusuke Matsui matherials](https://github.com/matsui528/sis)
 * [Adhokshaja Pradeep metherials](https://github.com/adhok)
+* [Understanding Variational Autoencoders (VAEs) by Joseph Rocca](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+* [Tutorial - What is a variational autoencoder? by Jaan Altosaar](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 * [Variational autoencoders video by Dr Yann LeCun & Dr Alfredo Canziani](https://www.youtube.com/watch?v=7Rb4s9wNOmc&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=15&t=1639s)
