@@ -14,7 +14,7 @@ The project has the following goals
 
 ## Demo
 
-![alt text](https://raw.githubusercontent.com/adhok/Searching-Similar-Images-using-VAE/main/image_search.gif)
+![alt text](https://raw.githubusercontent.com/galkinc/VAE-Searching-similar-images/main/present.gif)
 
 ## Folders, files, and structure
 
