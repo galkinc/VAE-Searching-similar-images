@@ -3,6 +3,7 @@
 ## Project Description
 
 The source code includes a Variational Autoencoders project, which is an applied task: Web server for Searching similar images in a docker.
+
 The VAE model was trained using the Fruits 360 dataset: A dataset of images containing fruits and vegetables. (https://www.kaggle.com/moltean/fruits)
 
 ## Goals 
@@ -39,6 +40,7 @@ The project has the following goals
 ## Running the Demo
 
 You can run the app directly, or through docker and docker-compose.
+
 To get the access to the web-front open `http://127.0.0.1:5000/`
 
 ```
