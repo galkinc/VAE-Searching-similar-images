@@ -5,6 +5,8 @@
 The source code includes a Variational Autoencoders project, which is an applied task: Web server for Searching similar images in a docker.
 The VAE model was trained using the Fruits 360 dataset: A dataset of images containing fruits and vegetables. (https://www.kaggle.com/moltean/fruits)
 
+## Goals 
+
 The project has the following goals
 * Design document and dataset description
 * VAE Model implementation and training code providing by Jupiter Notebook
@@ -51,4 +53,4 @@ docker-compose up
 * [Fruits 360 Dataset](https://www.kaggle.com/moltean/fruits)
 * [Yusuke Matsui matherials](https://github.com/matsui528/sis)
 * [Adhokshaja Pradeep metherials](https://github.com/adhok)
-* Variational autoencoders [video by Dr Yann LeCun & Dr Alfredo Canziani](https://www.youtube.com/watch?v=7Rb4s9wNOmc&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=15&t=1639s)
+* [Variational autoencoders video by Dr Yann LeCun & Dr Alfredo Canziani](https://www.youtube.com/watch?v=7Rb4s9wNOmc&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=15&t=1639s)
